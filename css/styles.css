@@ -1,0 +1,29 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #6d3939 ;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 10%;
+  border-color: gray;
+  height: 30px;
+}
+
+.contacts {
+  padding: 10%;
+  text-align: center;
+}
+
+.link {
+  padding: 0 5% 0
+}
