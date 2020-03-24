@@ -32,10 +32,3 @@ hr {
   padding: 3%;
 
 }
-
-a {
-  outline-color: invert;
-}
-a:hover {
-  outline-color: inherit;
-}
